@@ -1,5 +1,5 @@
 
-> ## Excerpt
+> ## Institut Physique du Globe de Paris
 > Signes précurseurs de fracture des roches
 
 ---
@@ -9,15 +9,13 @@
 
 **Table des matières :**
 
+I Introduction
+
 II Quelques généralités sur la théorie des ondes sismiques
 
-1.  1.
+1.  Les différents types d’ondes
     
-    Les différents types d’ondes
-    
-2.  2.
-    
-    Atténuation des ondes P et S
+2.  Atténuation des ondes P et S
     
 
 III Mesure de vitesse et d’atténuation des ondes sismiques sur plusieurs échantillons de calcaires sous différentes contraintes et saturations
@@ -68,6 +66,7 @@ La différence des temps d'arrivée des ondes P et S suffit, connaissant leur vi
 
 Les ondes de volume se propagent un peu comme les rayons lumineux : elles peuvent être réfléchies ou réfractées, c'est-à-dire déviées à chaque changement de milieu, au passage manteau-noyau par exemple. Elles peuvent ainsi suivre des trajets très complexes à l'intérieur de la terre. Leur temps de parcours dépend de ce trajet, elles n'arrivent pas toutes en même temps au même endroit.
 
+-   **Les ondes de surface.**
 Ce sont des ondes guidées par la surface de la terre. Leur effet est comparable aux rides formées à la surface d'un lac. Elles sont moins rapides que les ondes de volume (par exemple les ondes de Rayleigh, composition d’ondes P et SV) mais leur amplitude est généralement plus forte (mode guidé).
 
 Lorsqu’un milieu est soumis à des contraintes, il se déforme et, si celui-ci est homogène, isotrope et élastique, des ondes obéissent à l’équation de propagation suivante, sont:
@@ -154,6 +153,12 @@ Nous allons étudier l’atténuation des ondes dans un milieu atténuant. Nous 
 On superpose les ondes afin de voir les atténuations des ondes en fonction de la saturation et de la pression exercée sur l’échantillon.
 
 Nous disposons de cinq échantillons appelés :
+
+- CME 21 saturé à 100%
+- CME 22 saturé à 95%
+- CME 24 saturé à 91%
+- CME 13 saturé à 85%
+- CME 32 saturé à 80%
 
 ![](https://1099626939-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhdXVn8CfsYdor1W2iJ%2F-MhdkPq9hcezKfaRDe6R%2Fimage.png?alt=media&token=85decb84-1ae0-4e0b-a476-41e10031930c)
 
