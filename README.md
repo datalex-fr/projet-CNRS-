@@ -6,13 +6,9 @@
 
 II Quelques généralités sur la théorie des ondes sismiques
 
-1.  1.
+1.  1. Les différents types d’ondes
     
-    Les différents types d’ondes
-    
-2.  2.
-    
-    Atténuation des ondes P et S
+2.  2. Atténuation des ondes P et S
     
 
 III Mesure de vitesse et d’atténuation des ondes sismiques sur plusieurs échantillons de calcaires sous différentes contraintes et saturations
