@@ -114,7 +114,7 @@ Les échantillons utilisés sont de forme cylindrique. Pour chacun des échantil
 Le dispositif comporte :
 
 -   deux couples de transducteurs piézo-électriques (émetteur et récepteur) qui fournissent des ondes élastiques transversales et longitudinales de fréquence 1Mhz (ou 500Mhz). Ils sont placés dans un support et maintenus plaqués contre l’échantillon par des ressorts de même longueur. Les contraintes exercées sur l’échantillon sont obtenues grâce à cette presse :
--   
+ 
 ![](https://1099626939-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhdXVn8CfsYdor1W2iJ%2F-MhdjwH4Do8YN9ROhy3O%2Fimage.png?alt=media&token=9eea6c27-c44e-4987-a350-42770d72cd10)
 
 ![](https://1099626939-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhdXVn8CfsYdor1W2iJ%2F-MhdkA7S6-ke2L9Rj0Ul%2Fimage.png?alt=media&token=b82a29ee-2c29-45bc-aad8-fc56278a3322)
