@@ -1,3 +1,8 @@
+
+> ## Excerpt
+> Signes précurseurs de fracture des roches
+
+---
 ![](https://1099626939-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhdXVn8CfsYdor1W2iJ%2F-MhdwlHQbMRssf3LNlfs%2FP1010001.JPG?alt=media&token=c2acd460-7802-4a93-99f9-bdd07448a96f)
 
 ## 
@@ -6,9 +11,13 @@
 
 II Quelques généralités sur la théorie des ondes sismiques
 
-1.  Les différents types d’ondes
+1.  1.
     
-2.  Atténuation des ondes P et S
+    Les différents types d’ondes
+    
+2.  2.
+    
+    Atténuation des ondes P et S
     
 
 III Mesure de vitesse et d’atténuation des ondes sismiques sur plusieurs échantillons de calcaires sous différentes contraintes et saturations
